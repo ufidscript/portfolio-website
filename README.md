@@ -52,7 +52,7 @@ This is a static front-end project. No backend or package installation is requir
 Replace the placeholder with your GitHub repository URL.
 
 ```bash
-git clone <your-repository-url>
+git clone (https://github.com/ufidscript/portfolio-website)
 ```
 
 ### 2. Open the project
